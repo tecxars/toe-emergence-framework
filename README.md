@@ -107,3 +107,14 @@ The graph structure is therefore not an additional physical object but the abstr
 This combination of C*-algebra and graph structure forms the foundation for the further development of the theory.
 
 This is exactly what this project is built upon.
+
+
+## Research Status Notice
+
+The framework presented in this repository is a work in progress and reflects an evolving research direction. 
+It does not represent a validated physical theory, nor does it claim empirical confirmation. 
+All ideas should be regarded as preliminary, exploratory, and subject to revision.
+
+The author assumes no liability for interpretations, applications, or conclusions drawn from this material.
+
+
