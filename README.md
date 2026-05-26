@@ -117,4 +117,10 @@ All ideas should be regarded as preliminary, exploratory, and subject to revisio
 
 The author assumes no liability for interpretations, applications, or conclusions drawn from this material.
 
+## One more thing
+
+Just a small personal note at the end:  
+I use AI deliberately because I’m not an expert in every field — and I can’t be either. I genuinely believe that modern work is built on a symbiosis between human creativity and AI support. The AI helps me where my knowledge is thin, and honestly also in the places where I’m simply too lazy to write long passages myself.
+
+That's all, just wanted to make that clear.
 
