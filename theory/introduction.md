@@ -71,6 +71,15 @@ Any information-limited system admits effective descriptions at different scales
 ### 9. Stability and invariant informational structure  
 A fundamental information-processing system must admit stable configurations under its elementary dynamics. Without such stability, no large-scale regularity or emergent equilibrium behavior could arise. This motivates the existence of invariant states and local fixed-point structures, which later support emergent notions of equilibrium, thermodynamics, and persistent large-scale order.
 
+### 10. Cost of informational change  
+In a system with limited, non‑parallelizable, and noncommutative access to information, every modification of an informational state entails an unavoidable structure of reactions and counter‑influences. This reaction structure is not geometric or metric but an intrinsic property of the informational universe itself: it expresses that informational changes are never free but depend on the order, locality, and noncommutativity of the underlying operations. A consistent theory must therefore contain a well‑defined, dynamically stable cost structure for informational changes before any geometric interpretation becomes meaningful.
+
+### 11. Organization of the cost structure  
+An information‑fundamental system with limited, sequential, and noncommutative access can produce stable and reproducible states only if the costs of informational changes form a closed and contradiction‑free structure. The cost structure must be free of cyclic inconsistencies: no sequence of informational updates may return to the same state with a different cumulative cost. Such loops would undermine reversibility, destabilize the dynamics, and prevent the emergence of reliable large‑scale order. The universe must therefore possess a globally consistent organization of its fundamental cost reactions—without presupposing geometric, metric, or topological structures.
+
+### 12. Global unity of the informational universe  
+An information‑fundamental system composed of locally limited, dynamically interconnected, and noncommutative units can exist as a single universe only if all its local fragments—states, dynamics, renormalization, and costs—assemble into a globally coherent whole. If these local regions were not mutually aligned or could form independent sub‑universes, no unified, consistent informational reality would arise. The universe must therefore possess an ontological closure ensuring that every local description is part of a single, indivisible global informational structure—without assuming geometric, metric, or topological prerequisites.
+
 ---
 
 These conceptual principles do not yet constitute axioms. They form the logical foundation from which a precise mathematical axiomatization must be derived. The primitive axioms introduced in the next section are the minimal discrete and algebraic structures that satisfy all of the above requirements. They formalize:
